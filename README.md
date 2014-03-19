@@ -4,4 +4,4 @@
 Slides are available at : http://copystar.github.io/libtechconf14/#/
 
 
-Text will be available shortly at http://librarian.newja
+Text will be available shortly at http://librarian.newjackalmanac.ca/2014/03/the-origin-of-future-is-in-present_19.html
